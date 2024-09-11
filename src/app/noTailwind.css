@@ -1,0 +1,7 @@
+/* no-tailwind.css */
+
+/* Reset the styles as needed */
+.reset-all *{
+    all: revert; /* Reset all styles to browser defaults */
+  }
+  
